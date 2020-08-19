@@ -1,9 +1,9 @@
 ### Clone Discord from RocketSeat
 # Static Clone from discord app
-[x] I learned how to develop a react app from scratch.
-[x] I learned how to download the dependencies for a react project.
-[x] Responsive content with rows and columns.
-[x] Separation of codes by folder.
+<p>[x] I learned how to develop a react app from scratch.</p>
+<p>[x] I learned how to download the dependencies for a react project.</p>
+<p>[x] Responsive content with rows and columns.</p>
+<p>[x] Separation of codes by folder.</p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
